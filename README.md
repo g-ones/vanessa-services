@@ -22,8 +22,8 @@
 
 Существующие противоречия, идеи и проблемы фиксируются в виде задач и один раз в месяц рассматриваются в публичном режиме. Если вы хотите высказать предложение, отразить архитектурное противоречие, используйте для этого:
 
-* [систему задач GitHub](https://github.com/silverbulleters/vanessa-services/issues);
-* [систему меток GitHub](https://github.com/silverbulleters/vanessa-services/labels). 
+* [систему задач GitHub](https://github.com/silverbulleters/vanessa-services/issues)
+* [систему меток GitHub](https://github.com/silverbulleters/vanessa-services/labels) 
 
 ## Лицензия 
 
