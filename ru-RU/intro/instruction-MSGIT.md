@@ -1,4 +1,8 @@
-* msgit
+---
+name: msgit
+---
+
+## Инструкция по установке msgit
 
 * Отрываем ссылку: [msgit](https://git-scm.com/downloads)
 
