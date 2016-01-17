@@ -12,27 +12,27 @@ name: SourceTree
 
 * Запускаем скачанный дистрибутив
 
-* Нажимаем "Next"
+* Нажимаем `Next`
 
 ![](https://github.com/silverbulleters/vanessa-bootstrap/wiki/images/2015-09-30 23-05-01 SourceTree Setup.png)
 
-* Выбираем путь установки SourceTree. Нажимаем "Next"
+* Выбираем путь установки SourceTree. Нажимаем `Next`
 
 ![](https://github.com/silverbulleters/vanessa-bootstrap/wiki/images/2015-09-30 23-05-26 SourceTree Setup.png)
 
-* Нажимаем "Finish"
+* Нажимаем `Finish`
 
 ![](https://github.com/silverbulleters/vanessa-bootstrap/wiki/images/2015-09-30 23-36-15 SourceTree Setup.png)
 
-* Нажимаем "Вперёд"
+* Нажимаем `Вперёд`
 
 ![](https://github.com/silverbulleters/vanessa-bootstrap/wiki/images/2015-09-30 23-40-08 Добро пожаловать.png)
 
-* На вопрос "Установить глобальный файл игнорирования" отвечаем "Yes"
+* На вопрос "Установить глобальный файл игнорирования" отвечаем `Yes`
 
 ![](https://github.com/silverbulleters/vanessa-bootstrap/wiki/images/2015-09-30 23-40-35 Установить глобальный файл игнорирования .png)
 
-* На вопрос "Загрузить ключ SSH" отвечаем "NO"
+* На вопрос "Загрузить ключ SSH" отвечаем `NO`
 
 ![](https://github.com/silverbulleters/vanessa-bootstrap/wiki/images/2015-09-30 23-46-55 Загрузить ключ SSH .png)
 
