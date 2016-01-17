@@ -1,4 +1,4 @@
-## BDD-Editor - Сбор требований
+## BDD-Editor - Настройка первого использования
 
 ### Общие сведения
 
@@ -37,3 +37,5 @@
 ![](https://github.com/silverbulleters/vanessa-bdd-editor/blob/develop/doc/Images/%D0%9F%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B.png) 
   
 > Примечание: Большинство настроек параметров сохраняется автоматически, для удобства пользователей. Также сохраняется последняя активная закладка.  
+
+[Документацию но сбору требований вы можете посмотреть здесь](https://github.com/silverbulleters/vanessa-services/blob/master/ru-RU/bdd-editor/Settings.md)
