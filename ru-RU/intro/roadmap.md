@@ -16,7 +16,7 @@ TODO
 
 ### BDD-Editor
 
-[Документация](http://vanessa.services/docs/bdd-editor)
+[Документация](http://vanessa.services/docs/bddeditor)
 
 ## Proposal's
 
