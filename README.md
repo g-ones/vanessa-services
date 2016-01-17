@@ -25,3 +25,5 @@
 ## Лицензия 
 
 Этот проект выпущен под лицензией "New BSB v3". Ознакомьтесь в файле [LICENSE](LICENSE) с её полным текстом.
+
+[![ZenHub] (https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png)] (https://zenhub.io)
