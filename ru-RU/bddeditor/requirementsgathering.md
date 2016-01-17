@@ -22,7 +22,7 @@ name: Сбор требований
 Формат хранения исходных вбросов остается на усмотрение заказчика и аналитика. Но любой вброс должен быть структурирован и проанализирован. Также вбросы можно сразу же фиксировать в формате BDD.
 Для этого мы переходим к первой закладке BDD-Editora - "Сбор требований".
 
-![](https://github.com/silverbulleters/vanessa-bdd-editor/blob/develop/doc/Images/%D0%A1%D0%B1%D0%BE%D1%80%D0%A2%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B91.png)
+![](https://raw.githubusercontent.com/silverbulleters/vanessa-bdd-editor/develop/doc/Images/%D0%A1%D0%B1%D0%BE%D1%80%D0%A2%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B91.png)
      
 Данная закладка предназначена для фиксирования плана вброса (обсуждаемые темы с заказчиком) и создания feature-файлов по стандартному шаблону.
 
@@ -59,4 +59,4 @@ name: Сбор требований
 
 Более подробно смотрите в инструкции: ["Редактирование feature-файлов"](http://vanessa.services/docs/bddeditor/editorfeature)
 
-![](https://github.com/silverbulleters/vanessa-bdd-editor/blob/develop/doc/Images/%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80.png)
+![](https://raw.githubusercontent.com/silverbulleters/vanessa-bdd-editor/develop/doc/Images/%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80.png)

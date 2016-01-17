@@ -19,19 +19,19 @@ name: Редактирование feature-файлов
 
   * На закладке "Сбор требований", в табличной части. Нажать на гиперссылку пути необходимого feature-файла
 
-![](https://github.com/silverbulleters/vanessa-bdd-editor/blob/develop/doc/Images/Open1.png)
+![](https://raw.githubusercontent.com/silverbulleters/vanessa-bdd-editor/develop/doc/Images/Open1.png)
 
   * На закладке "Аудит требований", внутренней закладке "Структура требований". С позиционироваться на необходимом feature-файле, в любом месте его структуры, вызвать контекстное меню и выбрать пункт меню "Открыть feature файл в редакторе"
 
-![](https://github.com/silverbulleters/vanessa-bdd-editor/blob/develop/doc/Images/Open2.png)
+![](https://raw.githubusercontent.com/silverbulleters/vanessa-bdd-editor/develop/doc/Images/Open2.png)
 
   * На закладке "Аудит требований", внутренней закладке "Объем проекта". С позиционироваться на необходимом feature-файле, вызвать контекстное меню и выбрать пункт меню "Открыть feature файл в редакторе"
 
-![](https://github.com/silverbulleters/vanessa-bdd-editor/blob/develop/doc/Images/Open3.png)
+![](https://raw.githubusercontent.com/silverbulleters/vanessa-bdd-editor/develop/doc/Images/Open3.png)
 
 Откроется форма редактора: 
  
-![](https://github.com/silverbulleters/vanessa-bdd-editor/blob/develop/doc/Images/%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80.png)
+![](https://raw.githubusercontent.com/silverbulleters/vanessa-bdd-editor/develop/doc/Images/%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80.png)
 
 
 ### Редактирование feature-файла
@@ -62,7 +62,7 @@ name: Редактирование feature-файлов
   * выбрать значение двойным щелчком мыши или с позиционироваться на значении и нажать кнопку `Enter`
   * Значение подставится в текст feature-файла 
 
-![](https://github.com/silverbulleters/vanessa-bdd-editor/blob/develop/doc/Images/metad.png)
+![](https://raw.githubusercontent.com/silverbulleters/vanessa-bdd-editor/develop/doc/Images/metad.png)
 
 **2. С помощью "горячих знаков"**
 
@@ -70,7 +70,7 @@ name: Редактирование feature-файлов
   * в появившемся окне выбрать необходимое значение либо мышкой, либо стрелками вверх/вниз на клавиатуре, также можно производить ввод текста для поиска.
   * выбрать значение двойным щелчком мыши или с позиционироваться на значении и нажать кнопку `Enter`
 
-![](https://github.com/silverbulleters/vanessa-bdd-editor/blob/develop/doc/Images/metadplus.png)
+![](https://raw.githubusercontent.com/silverbulleters/vanessa-bdd-editor/develop/doc/Images/metadplus.png)
 
 #### Использование шаблонов для подстановки
 
@@ -78,7 +78,7 @@ name: Редактирование feature-файлов
 
 Шаблон формируется в формате JSON и находится в каталоге .\vanessa-bdd-editor\lib\templates. Наименование файла шаблонов "templates.yml".
 
-![](https://github.com/silverbulleters/vanessa-bdd-editor/blob/develop/doc/Images/templjson.png)
+![](https://raw.githubusercontent.com/silverbulleters/vanessa-bdd-editor/develop/doc/Images/templjson.png)
 
 > При необходимости Вы можете сами дополнить файл необходимыми вам шаблонами подстановки.
 > Файл подгружается автоматически каждый раз при открытии формы редактирования, либо при нажатии кнопки "Перечитать шаблоны" на закладке "Параметры" 
@@ -89,6 +89,6 @@ name: Редактирование feature-файлов
   * Нажимаем сочетание клавиш `ctrl`+`Q`
   * Производится поиск по существующей структуре шаблонов и подставляется найденный текст.
 
-![](https://github.com/silverbulleters/vanessa-bdd-editor/blob/develop/doc/Images/templ.png)
+![](https://raw.githubusercontent.com/silverbulleters/vanessa-bdd-editor/develop/doc/Images/templ.png)
 
 
