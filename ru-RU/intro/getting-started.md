@@ -41,6 +41,4 @@ name: Приступая ка работе
 
 ## Инструкция по установке
 
-```
-TODO - Перенести https://github.com/silverbulleters/vanessa-bootstrap/wiki
-```
+Ознакомьтесь с инструкциями по установке - [Инструкции по настройке рабочего окружения](http://vanessa.services/docs/intro/instruction)
