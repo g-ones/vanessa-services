@@ -38,4 +38,4 @@
   
 > Примечание: Большинство настроек параметров сохраняется автоматически, для удобства пользователей. Также сохраняется последняя активная закладка.  
 
-[Документацию но сбору требований вы можете посмотреть здесь](https://github.com/silverbulleters/vanessa-services/blob/master/ru-RU/bdd-editor/Settings.md)
+[Документацию по сбору требований вы можете посмотреть здесь](https://github.com/silverbulleters/vanessa-services/blob/master/ru-RU/bdd-editor/Settings.md)
