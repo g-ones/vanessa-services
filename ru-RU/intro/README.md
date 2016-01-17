@@ -18,7 +18,7 @@ name: Об инструментарии
 
 ## Фаза 1
 
-Прочитайте какой должен быть компьютер - [Положение-о-(кошерном)-компьютере-разработчика-1С](http://vanessa.services/docs/intro/getting-started)
+Прочитайте какой должен быть компьютер - [Положение о (кошерном) компьютере разработчика 1С](http://vanessa.services/docs/intro/getting-started)
 
 ### Windows
 
@@ -30,7 +30,7 @@ name: Об инструментарии
 
 ### Фаза 2
 
-прочитайте [Рекомендации-правильным-разработчикам-1С](http://vanessa.services/docs/intro/recommendations)
+прочитайте [Рекомендации правильным разработчикам 1С](http://vanessa.services/docs/intro/recommendations)
 
 * создайте локальный репозиторий на основе https://github.com/silverbulleters/vanessa-bootstrap как описано в документации
 * собирайте требования в формате Gherkin (пишите и помещайте в хранилище git feature файлы)
