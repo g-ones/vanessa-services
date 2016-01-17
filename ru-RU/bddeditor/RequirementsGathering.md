@@ -14,7 +14,7 @@ name: Сбор требований
 
 ### Настройка параметров BDD-Editor
 
-[Документацию по первой настройке для начала использования вы можете посмотреть здесь](https://github.com/silverbulleters/vanessa-services/blob/master/ru-RU/bdd-editor/Settings.md)
+[Документацию по первой настройке для начала использования вы можете посмотреть здесь](http://vanessa.services/docs/bddeditor/Settings)
 
 ### Сбор требований
 
@@ -57,6 +57,6 @@ name: Сбор требований
   * В режиме дерева
   * В режиме форматированного документа (HTML)
 
-Более подробно смотрите в инструкции: ["Редактирование feature-файлов"](https://github.com/silverbulleters/vanessa-bdd-editor/blob/develop/doc/EditorFeature.md)
+Более подробно смотрите в инструкции: ["Редактирование feature-файлов"](http://vanessa.services/docs/bddeditor/EditorFeature)
 
 ![](https://github.com/silverbulleters/vanessa-bdd-editor/blob/develop/doc/Images/%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80.png)

@@ -13,13 +13,13 @@ name: Структуризация хаоса требований
 
 ## Настройка для первого использования
 
-[Настройка для первого использования](http://vanessa.services/docs/bdd-editor/Settings)
+[Настройка для первого использования](http://vanessa.services/docs/bddeditor/Settings)
 
 ## Использование BDD-Editor
 
-[Сбор требований](http://vanessa.services/docs/bdd-editor/RequirementsGathering)
+[Сбор требований](http://vanessa.services/docs/bddeditor/RequirementsGathering)
 
-[Редактирование feature-файлов](http://vanessa.services/docs/bdd-editor/EditorFeature)
+[Редактирование feature-файлов](http://vanessa.services/docs/bddeditor/EditorFeature)
 
 ## Проблемы
 
