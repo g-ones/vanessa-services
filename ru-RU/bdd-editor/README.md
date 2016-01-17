@@ -21,7 +21,7 @@ name: Структуризация хаоса требований
 
 [Редактирование feature-файлов](https://github.com/silverbulleters/vanessa-services/blob/master/ru-RU/bdd-editor/EditorFeature.md)
 
-##проблемы
+## Проблемы
 
 ```
 TODO
