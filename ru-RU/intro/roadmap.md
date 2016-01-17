@@ -12,11 +12,11 @@ TODO
 ```
 ### Behavior
 
-[Документация](https://github.com/silverbulleters/vanessa-services/blob/master/ru-RU/behavior/README.md)
+[Документация](http://vanessa.services/docs/behavior)
 
 ### BDD-Editor
 
-[Документация](https://github.com/silverbulleters/vanessa-services/blob/master/ru-RU/bdd-editor/README.md)
+[Документация](http://vanessa.services/docs/bdd-editor)
 
 ## Proposal's
 
