@@ -1,5 +1,5 @@
 ---
-name: Контроль качества системы 1С
+name: Vanessa Behavior
 ---
 
 # Использование Vanessa Behavior

@@ -1,5 +1,5 @@
 ---
-name: Структуризация хаоса требований
+name: Vanessa BDD-Editor
 ---
 
 ## Цели Vanessa BDD-Editor
