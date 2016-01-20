@@ -15,12 +15,7 @@ name: Архитектурные вопросы
 
 запись проведенного обсуждения публикуется на YouTube и доступна для просмотра в течении 3 месяцев со дня проведения обсуждения.
 
-записи доступны в едином плейлисте YouTube
-
-```нажмите на картинку чтобы октрылся плейлист```
-
-[![плейлист](https://www.google.com/webpagethumbnail?c=41&r=4&s=300&d=https://www.youtube.com/playlist?list%3DPL2zlgf113YhGd-uTBCJQTp87c11Hdryj8&a=AIYkKU9ksEM1yzVPXg9xsQmL3uBUFsRRkg)](https://goo.gl/wI9lch)
-
+записи доступны в едином плейлисте YouTube https://goo.gl/wI9lch
 
 ## Порядок проведения обсуждения
 
