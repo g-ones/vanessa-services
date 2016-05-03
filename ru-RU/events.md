@@ -38,7 +38,7 @@ name: Мероприятия Vanessa Stack
 
 * [Vanessa Stack Workshop (Сибирь)](https://silverbulleters.timepad.ru/event/321004/)
   * дата: `30 июня 2016`
-  * плошадка: `Новосибирск, Утояняется`
+  * плошадка: `Новосибирск, Уточняется`
   * тренеры: **Vanessa Stack Power User**
   * стоимость: `15.000 рублей`
   * покупка билетов: [страница TimePad](https://silverbulleters.timepad.ru/event/321004/)
