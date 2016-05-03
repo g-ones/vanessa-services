@@ -13,7 +13,7 @@ name: Необходимые приложения
 **Pickles** | http://www.picklesdoc.com/  | автоматическое создание документации  |
 **Pandoc** | http://pandoc.org/  | конвертер документов между форматами  |
 **IrfanView** | http://www.irfanview.com/  | работа со скриншотами и текстмо в картинках  |
-**Visual Studio Code** | https://code.visualstudio.com/  | IDE для работы с различными форматами исходных кодов  |
+**Visual Studio Code** | https://code.visualstudio.com/  | IDE для работы с различными форматами исходных кодов 1C |
 **Plant UML** | http://ru.plantuml.com/ | создатель графических схем метаданных 1С |
 **Chocolatey Gui** | https://chocolatey.org/packages/ChocolateyGUI | графический установщик пакетов Windows  |
 **Notepad++** | https://notepad-plus-plus.org/ | удобный "блокнот" для Windows  |
