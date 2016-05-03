@@ -12,7 +12,7 @@ name: Необходимые приложения
 **Wget** | http://gnuwin32.sourceforge.net/packages/wget.htm  | автоматизированное скачивание пакетов и сервисов  |
 **Pickles** | http://www.picklesdoc.com/  | автоматическое создание документации  |
 **Pandoc** | http://pandoc.org/  | конвертер документов между форматами  |
-**IrfanView** | http://www.irfanview.com/  | работа со скриншотами и текстмо в картинках  |
+**IrfanView** | http://www.irfanview.com/  | работа со скриншотами и текстом в картинках  |
 **Visual Studio Code** | https://code.visualstudio.com/  | IDE для работы с различными форматами исходных кодов 1C |
 **Plant UML** | http://ru.plantuml.com/ | создатель графических схем метаданных 1С |
 **Chocolatey Gui** | https://chocolatey.org/packages/ChocolateyGUI | графический установщик пакетов Windows  |
@@ -25,8 +25,8 @@ name: Необходимые приложения
 
 Примечание:
 
-* вместе `Visual Studio Code` может использовать `Atom IDE` или `Sublime IDE` - подробней [в этом проекте](https://github.com/xDrivenDevelopment/1c-syntax)
+* вместо `Visual Studio Code` можете использовать [`Atom`](https://atom.io/) или [`Sublime Text`](https://www.sublimetext.com/) - подробней [в этом проекте](https://github.com/xDrivenDevelopment/1c-syntax)
 * в `linux` недоступен `SourceTree` - поэтому придется использовать консольное приложение `git`
 * при установке `GIT для Windows` важно установить флаг `Добавлять unix утилиты в %PATH%` - это избавит вас от проблем и "артефактов"
 
-для удобства инсталятор сгруппирован в командный файл [расположенный на github](https://github.com/silverbulleters/vanessa-bootstrap/blob/master/tools/windows/env-install.cmd)
+для удобства инсталятор сгруппирован в командный файл, [расположенный на github](https://github.com/silverbulleters/vanessa-bootstrap/blob/master/tools/windows/env-install.cmd)
