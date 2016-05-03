@@ -16,13 +16,18 @@ name: Об инструментарии
 
 ## Где искать помощи
 
+* [на канале YouTube](https://www.youtube.com/SilverBulletersTube)
+  * в разделе плейлисты
+  * в разделе конференции
+  * в разделе открытые видеокурсы
+
 * [на Инфостарте](http://infostart.ru)
   * в разделе [практика программирования](http://infostart.ru/public/all/?public-filter[section_id][]=1646) 
   * на очередной конференции [в секции контроль качества и в секции управление](http://event.infostart.ru/)
 
 * через `GitHub`
   * нажать кнопку **Watch** в репозиториях и Wiki страницах - и настроить оповещения в отдельную папку почтового ящика
-  * в `**Gitter**` чатах [в отдельных чат комнатах по каждому продукту](https://gitter.im/silverbulleters/)
+  * в `Gitter` чатах [в отдельных чат комнатах по каждому продукту](https://gitter.im/orgs/silverbulleters/rooms)
 
 * в `Google+`
   * в сообществе [Vanessa Stack](https://plus.google.com/communities/110827644478001377296)
